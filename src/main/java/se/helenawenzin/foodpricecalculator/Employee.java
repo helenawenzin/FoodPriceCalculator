@@ -1,8 +1,6 @@
 package se.helenawenzin.foodpricecalculator;
 
 import lombok.Data;
-import org.hibernate.annotations.GeneratorType;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
